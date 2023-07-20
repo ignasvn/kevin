@@ -25,6 +25,10 @@
   /* Add specific styles for extra large devices */
 }
 
+background {
+  backgroun-color: red;
+}
+
 .page {
   margin: 1px 3% 10px 3%;
 }
