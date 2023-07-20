@@ -25,10 +25,6 @@
   /* Add specific styles for extra large devices */
 }
 
-background {
-  backgroun-color: red;
-}
-
 .page {
   margin: 1px 3% 10px 3%;
 }
@@ -130,8 +126,7 @@ p {
 }
 
 .button-submit{
-  /* background-color: rgb(0, 190, 248); */
-  background-color: #f87c00;
+  background-color: rgb(0, 190, 248);
   width: 100px;
   height: 40px;
   border: 1px solid;
